@@ -1,0 +1,38 @@
+<CATALOG>
+
+  <FILMS>
+    <TITLE>Аватар</TITLE>
+    <DIRECTOR>Джеймс Кэмерон</DIRECTOR>
+    <GENRE>фантастика</GENRE>
+    <YEAR>2009</YEAR>
+    <FEES>$2 923 905 528</FEES>
+  </FILMS>
+  <FILMS>
+    <TITLE>Тор</TITLE>
+    <DIRECTOR>Кеннет Брана</DIRECTOR>
+    <GENRE>фантастика</GENRE>
+    <YEAR>2011</YEAR>
+    <FEES>$449 326 618</FEES>
+  </FILMS>
+  <FILMS>
+    <TITLE>1+1</TITLE>
+    <DIRECTOR>Оливье Накаш, Эрик Толедано</DIRECTOR>
+    <GENRE>комедия</GENRE>
+    <YEAR>2011</YEAR>
+    <FEES>$426 588 510</FEES>
+  </FILMS>
+  <FILMS>
+    <TITLE>Дедпул</TITLE>
+    <DIRECTOR>Тим Миллер</DIRECTOR>
+    <GENRE>боевик</GENRE>
+    <YEAR>2016</YEAR>
+    <FEES>$782 612 155</FEES>
+  </FILMS>
+  <FILMS>
+    <TITLE>Девушка с татуировкой дракона</TITLE>
+    <DIRECTOR>Дэвид Финчер</DIRECTOR>
+    <GENRE>детектив</GENRE>
+    <YEAR>2011</YEAR>
+    <FEES>$232 617 430</FEES>
+  </FILMS>
+</CATALOG>
